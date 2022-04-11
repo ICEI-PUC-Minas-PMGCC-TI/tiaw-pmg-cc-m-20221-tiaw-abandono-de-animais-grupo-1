@@ -4,15 +4,16 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Áulus Arcanjo Alves Batista
+* Lara Brígida Rezende Souza
+* Lucas Bigão Machado Gonçalves
+* Marcelo Reis Esteves
+* Otávio Bruno de Barros Motta
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
+* Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
