@@ -1,7 +1,7 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`SafePet`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Trabalho interdisciplinar: Aplicações Web - Abandono de animais
 
 `CURSO` 
 
@@ -178,50 +178,43 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo 
+foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto 
+tem uma identidade visual padronizada em todas as telas que são projetadas para 
+funcionamento em desktops e dispositivos móveis.
 
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
-......  INCLUA AQUI O DIAGRAMA COM O FLUXO DO USUÁRIO NA APLICAÇÃO ......
+O esquema mostra o fluxo de interação nas telas do sistema pelo qual o usuário passará. Cada tela é detalhada na 
+seção de wireframes que se segue.
 
-> Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
-> mapear todo fluxo de telas do site ou app. Essa técnica funciona
-> para alinhar os caminhos e as possíveis ações que o usuário pode
-> fazer junto com os membros de sua equipe.
->
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
->
-> **Exemplo**:
-> 
-> ![Exemplo de UserFlow](images/userflow.jpg)
+
+![Userflow](images/User_flow.jpg)
+
 
 
 ## Wireframes
 
-......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
+### Tela inicial
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
+![Wireframes](images/wireframe1.jpg)
+
+### Tela Sobre
+
+![Wireframes](images/wireframe2.jpg)
+
+### Tela Notícias
+
+![Wireframes](images/wireframe3.jpg)
+
+### Tela Denúncias
+
+![Wireframes](images/wireframe4.jpg)
+
+### Tela Contate-nos
+
+![Wireframes](images/wireframe5.jpg)
 
 
 # Metodologia
