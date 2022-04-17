@@ -12,8 +12,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Rommel Vieira Carneiro
+* Carlos Alberto Marques Pietrobon
 
 ## Instruções de utilização
 
