@@ -1,0 +1,157 @@
+*{
+  margin: 0px;
+}
+
+.row{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  background-color: #add8e6;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.header_area{
+  box-shadow: 0px 0px 5.5px 1px rgba(0, 0, 0, 0.384);
+}
+
+.menu_area{
+  margin-top: 40px;
+  
+}
+
+.menu_area nav{
+  background-color: #87aab6;
+  margin-bottom: 10px;
+}
+
+.menu_area nav a{
+  color: black;
+  border-radius: 0px !important;
+  
+}
+
+.menu_area nav a:hover{
+  color: white;
+  background-color: #80b9cc;
+  transition-property: all;
+  transition-duration: 0.25s;
+  
+}
+
+.home{
+  color: black;
+  background-color: #6394a4!important;
+}
+
+.logo{
+  max-width: 120px;
+  padding: 10px; 
+}
+
+.titulo{
+  text-align: center;
+}
+
+.subtitulo{
+  text-align: center;
+  padding-top: 20px;
+}
+
+.card {
+  min-height: 600px;
+  max-height: 650px;
+  padding: 10px;
+  margin: 20px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.131);
+  border-radius: 7px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.my-card {
+  height: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 0;
+  border: 2px outset rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  background-color: white;
+}
+
+.card-img--container {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-color: #add8e6;
+}
+
+.card-link {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.card-body {
+  border-top: 1px solid black;
+  padding-bottom: 5px;
+}
+
+.card-body p {
+  margin: 0;
+  padding: 0.4rem 0;
+}
+
+.img_pet {
+  object-fit: contain;
+  width: 200px;
+  height: 100%;
+  border-radius: 7px;
+}
+
+footer {
+  background-color: #add8e6;
+  margin-top: 20px;
+  color: black;
+}
+
+.footer_area {
+  padding: 20px;
+  text-align: center;
+}
+
+.btn_pet {
+  background-color: #80b9cc;
+  padding: 5px;
+  border-radius: 7px;
+  transition: .2s;
+  border-color: #e9baaa;
+}
+
+.btn_pet:hover {
+  letter-spacing: 3px;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.img_nos {
+  width: 100%;
+}
+
+.fonte {
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: medium !important;
+}

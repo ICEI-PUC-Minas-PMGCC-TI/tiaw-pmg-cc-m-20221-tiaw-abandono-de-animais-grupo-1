@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- CSS only -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link rel="stylesheet" href="style2.css">
+  <link rel="shortcut icon" href="imagens/logo.jpg" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;500;700&display=swap" rel="stylesheet">
+  <title>SafePet</title>
+</head>
+
+<body>
+  <header class="col-12 header">
+
+    <div class="row">
+
+      <div class="col-12 header_area">
+
+        <div class="row">
+
+          <div class="col-12 col-sm-12 col-md-2 col-lg-2">
+
+            <img src="imagens/logo.jpg" alt="logo" class="logo">
+
+          </div>
+
+          <div class="col-12 col-sm-12 col-md-8 col-lg-8 menu_area">
+            <nav class="nav nav-pills flex-column flex-sm-row">
+              <a class="flex-sm-fill text-sm-center nav-link active home" href="adocao.html">Adoção</a>
+              <a class="flex-sm-fill text-sm-center nav-link" href="cadastro.html">Cadastro de Animais</a>
+              <a class="flex-sm-fill text-sm-center nav-link" href="ongs.html">ONGS</a>
+              <a class="flex-sm-fill text-sm-center nav-link" href="sobre.html">Sobre</a>
+            </nav>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </header>
+
+  <main>
+    <dialog id="myDialog" class="dialog">
+      <div onclick="closeDialog()" class="d-flex justify-content-end exit-button">X</div>
+      <form>
+        <section id="meuPet">
+        </section>
+      </form>
+    </dialog>
+    <h3 class="col-12 titulo">
+      Vamos ajudar um Pet!
+    </h3>
+    <p class="col-12 subtitulo">
+      Veja só algum dos bichinhos que temos disponíveis
+    </p>
+
+    <div class="row" id="cards">
+      <!--CARDS-->
+    </div>
+
+    </div>
+
+    </div>
+
+    </div>
+
+  </main>
+
+  <footer class="container-fluid footer">
+
+    <div class="row">
+
+      <div class="col-12 footer_area">
+
+        <p>SafePet - Todos os direitos reservados - 2022</p>
+
+      </div>
+
+    </div>
+  </footer>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="adocao.js">
+</script>
+</html>

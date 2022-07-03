@@ -1,0 +1,147 @@
+* {
+  margin: 0px;
+  font-family: 'Poppins', sans-serif !important;
+  font-weight: medium !important;
+}
+
+.row {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  background-color: #add8e6;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.header_area {
+  box-shadow: 0px 0px 5.5px 1px rgba(0, 0, 0, 0.384);
+}
+
+.menu_area {
+  margin-top: 40px;
+
+}
+
+.menu_area nav {
+  background-color: #87aab6;
+  margin-bottom: 10px;
+}
+
+.menu_area nav a {
+  color: black;
+  border-radius: 0px !important;
+
+}
+
+.menu_area nav a:hover {
+  color: white;
+  background-color: #80b9cc;
+  transition-property: all;
+  transition-duration: 0.25s;
+
+}
+
+.home {
+  color: black;
+  background-color: #6394a4 !important;
+}
+
+.logo {
+  max-width: 120px;
+  padding: 10px;
+}
+
+.titulo {
+  text-align: center;
+}
+
+.subtitulo {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.card {
+  height: 400px;
+  min-width: 300px;
+  max-width: 350px;
+  padding: 10px;
+  margin: 20px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.131);
+  border-radius: 7px;
+  text-align: center;
+}
+
+.card:active {
+  background-color: #bcf2fb94;
+}
+
+.card:hover {
+  cursor: pointer;
+}
+
+.card_text {
+  padding: 15px;
+  font-weight: bold;
+}
+
+.complemento {
+  padding: 5px;
+}
+
+.img_pet {
+  min-height: 200px;
+  min-width: 200px;
+  max-height: 400px;
+  max-width: 500px;
+  border-radius: 7px;
+  overflow: hidden;
+  -moz-transition: all 0.3s;
+  -webkit-transition: all 0.3s;
+  transition: 0.3s;
+}
+
+.img_pet:hover {
+  -moz-transform: scale(1.07);
+  -webkit-transform: scale(1.07);
+  transform: scale(1.07);
+}
+
+footer {
+  background-color: #add8e6;
+  margin-top: 20px;
+  color: black;
+}
+
+.footer_area {
+  padding: 20px;
+  text-align: center;
+}
+.dialog {
+  z-index: 20;
+  position: absolute;
+  top: 20%;
+  left: 35%;
+}
+.img-dialog {
+  object-fit: fill;
+  height: 330px;
+}
+.card-dialog {
+  font-size: 22px;
+  width: 700px;
+  height: 700px;
+  padding: 10px;
+  border-radius: 7px;
+}
+.bg-navbar-dialog {
+  background-color: #add8e6;
+  display: flex;
+  justify-content: center;
+}
+.exit-button {
+  cursor: pointer;
+  font-size: 25px;
+  color: red;
+}
