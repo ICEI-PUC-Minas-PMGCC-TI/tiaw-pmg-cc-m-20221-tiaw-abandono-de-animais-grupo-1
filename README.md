@@ -2,14 +2,13 @@
 # Abandono de animais - TIAW
 
    Atualmente, o abandono de animais é um problema enraizado na sociedade brasileira. De acordo com a OMS, existem mais de 30 milhões de animais abandonados no Brasil. abandono gera nesses animais grande sofrimento, afetando sua saúde e bem-estar, deixando-os sujeitos a maus-tratos e acidentes, diminuindo assim sua expectativa de vida. Além disso, o problema aflige a sociedade no geral, já que estes animais podem transmitir doenças, contribuem para a contaminação do meio ambiente onde estão inseridos e se reproduzem desenfreadamente. 
-   O SafePet tem como objetivo auxiliar na resolução do problema de visibilidade acerca dessa problemática. O projeto foca na ideia da construção de uma plataforma de conscientização sobre o abandono de animais, formas de denúncia, formas de adoção e informações importantes antes de se obter um pet. 
+   O SafePet tem como objetivo auxiliar na resolução do problema de visibilidade acerca dessa problemática. O projeto foca na ideia da construção de uma plataforma de adoção, para aproximar usuários interessados em adotar um animal, com usuários que tem animais disponiveis para adoção.
 
 ## Alunos integrantes da equipe
 
 * Otávio Bruno de Barros Motta
 * Áulus Arcanjo Alves Batista
 * Lara Brígida Rezende Souza
-* Lucas Bigão Machado Gonçalves
 * Marcelo Reis Esteves
 
 ## Professores responsáveis
